@@ -1,5 +1,5 @@
 # Project-4-assignments
-Assignments 00 to 05 https://github.com/panaversity/learn-modern-ai-python/tree/main/PROJECTS/homework_projects
+Assignments 00 to 05 https://github.com/Shayan21345293/homework-projects/tree/main
 
 Assignments 01 https://github.com/panaversity/learn-modern-ai-python/tree/main/PROJECTS/online_class_projects
 
